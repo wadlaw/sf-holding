@@ -8,8 +8,8 @@ export default function HomePage() {
           src="/Logo.png"
           alt="Standard Fire"
           className="w-1/4"
-          width={80}
-          height={80}
+          width={300}
+          height={300}
         />
         <h1 className="text-center text-5xl font-extrabold tracking-tight text-black sm:text-[5rem]">
           Professional Fire Safety Solutions
